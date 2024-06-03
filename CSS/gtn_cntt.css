@@ -1,0 +1,266 @@
+header {
+    background-color:rgb(252, 190, 76);
+    color:rgb(0, 0, 0);
+    text-align: center;
+    padding: 9%;
+    height:20px;
+    
+}
+
+img {
+    border-radius: 10%;
+}
+
+h1 {
+    font-size: 0.7cm;
+    margin-top: -100px;
+}
+
+.hinh {
+    border-top-style:double;
+    border-right-style:double;
+    border-bottom-style:double;
+    border-left-style:double;
+    color: black;
+}
+
+body {
+    background-color:blanchedalmond;
+    font-size: 0.6cm;
+}
+
+.A{
+    text-align: center;
+}
+
+h4{
+    font-size: 0.7cm;
+}
+
+p15 {
+    font-size: 0.45cm;
+
+}
+
+p18 {
+    color: blue;
+}
+
+p19{
+    color: blue;
+    font-size: 0.6cm;
+}
+
+p21 {
+    font-size: 1cm;
+}
+
+p24 {
+    font-size: 0.8cm;
+}
+
+p25 img {
+    border-radius: 50%;
+}
+
+p26 a {
+    font-size: 0.45cm;
+}
+.cd {
+    display:flex;
+}
+
+.cd p27 {
+    padding-left: 10px;
+}
+
+p31 {
+    padding-left: 600px;
+    font-size: 0.5cm;
+}
+.mau{
+    border: 3px solid rgb(0, 217, 255);
+    border-radius: 10px;
+    background-color: azure;
+    padding-left: 10px; 
+    
+}
+
+.khung {
+    border: 3px solid rgb(248, 248, 248);
+    border-radius: 10px;
+    background-color:rgb(216, 213, 213);
+    padding-left: 10px;
+    height: 255px;
+    width: 215px;
+}
+
+.img {
+    width: 1000px;
+    
+}
+
+.ban_do {
+    text-align: center;
+    border: 3px solid rgb(248, 248, 248);
+
+    background-color:rgb(0, 140, 255);
+
+
+}
+.hinhbando {
+    text-align: center;
+}
+
+.ul li {
+    color: blue;
+}
+.ol {
+    padding-left: 200px;
+}
+
+footer{
+    padding:20px;
+    margin-top:20px;
+    color:#ffffff;
+    background-color:#1dcde8;
+    text-align: center;
+    font-size: 0.45cm;
+    color: black;
+  }
+
+p34 {
+    padding-left: 70px;
+}
+p35 {
+    color:blue;
+    padding-left: 45px;
+}
+
+.anh {
+    text-align: center;
+} 
+
+.bang {
+    text-align: center;
+}
+
+.khu {
+    
+    border: 3px solid rgb(0, 217, 255);
+    border-radius: 10px;
+    background-color: azure;
+    padding-left: 10px;
+    width: 1000px;
+    height: 3260px;
+}
+
+.khu1 {
+    
+    border: 3px solid rgb(0, 217, 255);
+    border-radius: 10px;
+    background-color: azure;
+    padding-left: 10px;
+    width: 500px;
+    height: 3035px;
+}
+
+
+.container_swap {
+    width: 400px;
+}
+.div_left {
+    width: 200px;
+    float: left;
+}
+.div_right {
+    width: 440px;
+    float:inline-end;
+    
+}
+
+header3 {
+    background-color: black;
+    color:azure;
+
+}
+
+section {
+    padding-left: 50px;
+}
+
+.table3 {
+    text-align:left;
+}
+
+.khu2 {
+    border: 3px solid rgb(0, 217, 255);
+    border-radius: 10px;
+    background-color: azure;
+    padding-left: 10px;
+    width: 1000px;
+    height: 3107px;
+}
+
+.khu3 {
+    border: 3px solid rgb(0, 217, 255);
+    border-radius: 10px;
+    background-color: azure;
+    padding-left: 10px;
+    width: 1000px;
+    height: 2999px;
+}
+
+.khu4 {
+    border: 3px solid rgb(0, 217, 255);
+    border-radius: 10px;
+    background-color: azure;
+    padding-left: 10px;
+    width: 1000px;
+    height: 2995px;
+}
+
+.khu5 {
+    border: 3px solid rgb(0, 217, 255);
+    border-radius: 10px;
+    background-color: azure;
+    padding-left: 10px;
+    width: 1000px;
+    height: 3000px;
+}
+
+.khu6 {
+    border: 3px solid rgb(0, 217, 255);
+    border-radius: 10px;
+    background-color: azure;
+    padding-left: 10px;
+    width: 1000px;
+    height: 2995px;
+}
+
+.khu7 {
+    border: 3px solid rgb(0, 217, 255);
+    border-radius: 10px;
+    background-color: azure;
+    padding-left: 10px;
+    width: 1000px;
+    height: 4021px;
+}
+
+.khu8 {
+    border: 3px solid rgb(0, 217, 255);
+    border-radius: 10px;
+    background-color: azure;
+    padding-left: 10px;
+    width: 1000px;
+    height: 2532px;
+}
+
+.khu9 {
+    border: 3px solid rgb(0, 217, 255);
+    border-radius: 10px;
+    background-color: azure;
+    padding-left: 10px;
+    width: 1000px;
+    height: 4443.5px;
+}
