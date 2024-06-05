@@ -152,7 +152,7 @@ p35 {
     background-color: azure;
     padding-left: 10px;
     width: 1000px;
-    height: 3260px;
+    height: 3236px;
 }
 
 .khu1 {
@@ -226,7 +226,7 @@ section {
     background-color: azure;
     padding-left: 10px;
     width: 1000px;
-    height: 3000px;
+    height: 1583px;
 }
 
 .khu6 {
@@ -235,7 +235,7 @@ section {
     background-color: azure;
     padding-left: 10px;
     width: 1000px;
-    height: 2995px;
+    height: 3000px;
 }
 
 .khu7 {
@@ -244,7 +244,7 @@ section {
     background-color: azure;
     padding-left: 10px;
     width: 1000px;
-    height: 4021px;
+    height: 3971px;
 }
 
 .khu8 {
@@ -253,7 +253,7 @@ section {
     background-color: azure;
     padding-left: 10px;
     width: 1000px;
-    height: 2532px;
+    height: 2509px;
 }
 
 .khu9 {
@@ -262,5 +262,14 @@ section {
     background-color: azure;
     padding-left: 10px;
     width: 1000px;
-    height: 4443.5px;
+    height: 4418.5px;
+}
+
+.khu10 {
+    border: 3px solid rgb(0, 217, 255);
+    border-radius: 10px;
+    background-color: azure;
+    padding-left: 10px;
+    width: 1000px;
+    height: 1205.5px;
 }
