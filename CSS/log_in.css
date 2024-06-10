@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+}
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+input[type="submit"] {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+button {
+    background-color: #ccc;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+h3 {
+    font-size: 0.7cm;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.dang_nhap {
+    margin-top: 30px;
+    font-size: 0.6cm;
+}
+
+.dang_nhap1 {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 0.5cm;
+}
