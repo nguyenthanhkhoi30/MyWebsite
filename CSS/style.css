@@ -55,7 +55,7 @@ header a:hover{
 
 #trang2{
     min-height: 500px;
-    background:url('../img/home.jpg') no-repeat 0 ;
+    background:url('../CSS/home.jpg') no-repeat 0 ;
     background-size: cover;
     text-align:center;
     color:#f6f4f4;
